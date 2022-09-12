@@ -1,0 +1,5 @@
+Barvy sekcí
+Text: #ffe3b3
+Pozadí 1sekce: #028174
+2sekce: #0ab68b
+3 sekce: #92de8b
