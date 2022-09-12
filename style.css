@@ -1,0 +1,22 @@
+.foto-Pavla{
+     width: 200px;
+ float: left;
+ margin: 0 30px;
+}
+
+h1{
+    text-align: center;
+    color: #ffe3b3;
+    margin: 50px 50px;
+}
+
+h2{
+    color:#ffe3b3;
+}
+
+section{
+    padding: 50px 15%;  
+    background-color: #028174; 
+
+}
+
