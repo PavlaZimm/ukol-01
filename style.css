@@ -32,6 +32,7 @@ section{
     padding: 50px 15%;  
     background-color: #028174; 
     color: white;
+    overflow: auto;
 }
 
 .pracovni {
@@ -39,4 +40,8 @@ section{
 }
 .vzdelani{
     background-color: #0ab68b;
+}
+
+.paticka {
+    text-align: center;
 }
