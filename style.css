@@ -1,22 +1,42 @@
 .foto-Pavla{
-     width: 200px;
- float: left;
- margin: 0 30px;
+    width: 200px;
+    float: left;
+    margin: 30px;
+    border-radius: 50%;
+    border: 5px solid white;
 }
 
 h1{
     text-align: center;
+    font-size: 50px;
     color: #ffe3b3;
     margin: 50px 50px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 2px;
 }
 
 h2{
     color:#ffe3b3;
+    margin: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
 }
 
 section{
     padding: 50px 15%;  
     background-color: #028174; 
-
+    color: white;
 }
 
+.pracovni {
+    background-color: #0ab68b ;
+}
+.vzdelani{
+    background-color: #0ab68b;
+}
