@@ -46,3 +46,29 @@ section{
 .paticka {
     text-align: center;
 }
+
+.menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu li{
+    display: online inline-block;
+}
+.menu a{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 10px;
+
+}
+
+.menu{
+    background-color: #028174;
+}
+
+.menu a:focus,
+.menu a:active,
+.menu a:hover{
+    background-color: #92DE8B;
+}
